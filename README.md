@@ -16,7 +16,11 @@ The importance of knowing help desk support roles allows cybersecurity professio
 
    Attackers and criminals are constantly waging attacks on orginizations of all sizes. Employees that understand the relationship between vulnerabilities, threats, and risks are more likely to recognize attacks when they occur.
 
+4. How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?
 
+   Writing skills are important because documenting issues is the foundation of solving issues. Critical thinking skills allow help desk technicians to evaluate a problem and compare it to past problems they've seen.
+
+   
 # Things I want to Know More About
 
 Why do help desk professionals not have more training on the communication soft skill? How many different tiers of help desk does an orginization have?
